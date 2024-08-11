@@ -42,7 +42,7 @@ function App() {
       >
         <div className="container">
           <button className="btn btn-primary" onClick={onButtonClick}>
-            Download CV
+            Download Resume
           </button>
 
           <button
