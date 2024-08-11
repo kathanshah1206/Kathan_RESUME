@@ -72,31 +72,40 @@ export default function Footer() {
 
                     <div className="socials">
                       <ul>
-                        <li style={{ cursor: "pointer" }}>
+                        {/* <li style={{ cursor: "pointer" }}>
                           <a>
                             <span className="ico-circle">
                               <i className="ion-social-facebook"></i>
                             </span>
                           </a>
-                        </li>
+                        </li> */}
                         <li style={{ cursor: "pointer" }}>
-                          <a>
+                          <a
+                            href="https://www.instagram.com/kathan_.shah?igsh=MTNjdjBkampyMmNiOQ=="
+                            target="_blank"
+                          >
                             <span className="ico-circle">
                               <i className="ion-social-instagram"></i>
                             </span>
                           </a>
                         </li>
                         <li style={{ cursor: "pointer" }}>
-                          <a>
+                          <a
+                            href="https://github.com/kathanshah1206"
+                            target="_blank"
+                          >
                             <span className="ico-circle">
-                              <i className="ion-social-twitter"></i>
+                              <i className="ion-social-github"></i>
                             </span>
                           </a>
                         </li>
                         <li style={{ cursor: "pointer" }}>
-                          <a>
+                          <a
+                            href="https://www.linkedin.com/in/kathan-shah-bb26041b2/"
+                            target="_blank"
+                          >
                             <span className="ico-circle">
-                              <i className="ion-social-pinterest"></i>
+                              <i className="ion-social-linkedin"></i>
                             </span>
                           </a>
                         </li>
