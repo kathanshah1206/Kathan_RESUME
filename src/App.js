@@ -1,4 +1,5 @@
 import "./App.css";
+import Marquee from "react-fast-marquee";
 import { jsPDF } from "jspdf";
 import "react-vertical-timeline-component/style.min.css";
 import React, { useState } from "react";
