@@ -110,6 +110,16 @@ export default function Footer() {
                               </span>
                             </a>
                           </li>
+                          <li style={{ cursor: "pointer" }}>
+                            <a
+                              href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqXxGGPjkLdDXDFPtmKzZctZJZHbGgjfZctwvKMCjpjVrdClsVpvqdCNZkSQQPgXwrnVZL"
+                              target="_blank"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-social-google-outline"></i>
+                              </span>
+                            </a>
+                          </li>
                         </ul>
                       </div>
                     </div>
