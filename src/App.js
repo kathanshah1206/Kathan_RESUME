@@ -244,19 +244,19 @@ function App() {
                         </div>
 
                         <div className="col-sm-6 col-md-12 col-xl-6 mx-md-4 mx-lg-4 mx-4 mx-sm-0 mx-xl-0">
-                          <p className="row">
+                          <p className="row align-items-center" style={{gap:'5  px'}}>
                             <span className="title-s">Name: </span>
                             <span>Kathan Shah</span>
                           </p>
-                          <p className="row">
-                            <span className="title-s">Address: </span>
+                          <p className="row align-items-center" style={{gap:'5px'}}>
+                            <span className="title-s ">Address: </span>
                             <span>GIDC Ankleshwar, Bharuch</span>
                           </p>
-                          <p className="row">
+                          <p className="row align-items-center" style={{gap:'5px'}}>
                             <span className="title-s">Email: </span>
                             <span>kathanshah12062002@gmail.com</span>
                           </p>
-                          <p className="row">
+                          <p className="row align-items-center" style={{gap:'5px'}}>
                             <span className="title-s">Phone: </span>
                             <span>7016239865</span>
                           </p>
