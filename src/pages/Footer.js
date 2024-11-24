@@ -120,6 +120,16 @@ export default function Footer() {
                               </span>
                             </a>
                           </li>
+                          <li style={{ cursor: "pointer" }}>
+                            <a
+                            href="https://leetcode.com/u/kathanshah/"
+                              target="_blank"
+                            >
+                              <span  className="ico-circle">
+                                <img className=""  style={{width:'30px',height:'30px',paddingBottom:'5px' ,objectFit:'cover'}} src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"></img>
+                              </span>
+                            </a>
+                          </li>
                         </ul>
                       </div>
                     </div>

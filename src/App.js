@@ -260,6 +260,11 @@ function App() {
                             <span className="title-s">Phone: </span>
                             <span>7016239865</span>
                           </p>
+                          <p className="row align-items-center" style={{gap:'5px'}}>
+                            {/* <span className="title-s">link: </span> */}
+                          <a style={{color:'blue'}} href="https://leetcode.com/u/kathanshah/" target="_blank">https://leetcode.com/u/kathanshah/</a>
+                          </p>
+                          {/* https://leetcode.com/u/kathanshah/ */}
                         </div>
                       </div>
                       <div className="skill-mf">
