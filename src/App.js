@@ -16,7 +16,7 @@ import Footer from "./pages/Footer";
 function App() {
   const [activeTab, setActiveTab] = useState("home");
   const onButtonClick = () => {
-    fetch("/Kathan_CV_August.pdf").then((response) => {
+    fetch("/Kathan_CV_2025.pdf").then((response) => {
       response.blob().then((blob) => {
         // Creating new object of PDF file
         const fileURL = window.URL.createObjectURL(blob);
