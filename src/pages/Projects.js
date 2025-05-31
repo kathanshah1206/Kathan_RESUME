@@ -92,20 +92,7 @@ export default function Projects() {
               dynamic design
             </p>
           </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="in Ethics Infotech (Group Project)"
-            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
-            icon={<FaPeopleGroup />}
-          >
-            <h3 className="vertical-timeline-element-title">
-              E-commerce website{" "}
-            </h3>
-            <h6 className="mt-2">
-              ReactJS, NodeJS,MongoDB, SQL Server,Bootstrap, CSS
-            </h6>
-            <p>An online multipurpose website for hospital</p>
-          </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="in Ethics Infotech (Group Project)"
@@ -118,6 +105,86 @@ export default function Projects() {
             <h6 className="mt-2">ReactJS, NodeJS, PouchDB, MUI, CSS</h6>
             <p>
               A POS software compatible across all Operating Systems and devices
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="in Ethics Infotech (2024)"
+            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+            icon={<FaPeopleGroup />}
+          >
+            <h3 className="vertical-timeline-element-title">
+              Uttarakhand Tourism
+            </h3>
+            <h6 className="mt-2">
+              React.js, API Integration, State Management, CSS
+            </h6>
+            <p>
+              Developed responsive web pages for tourist destinations, packages,
+              and booking features. Integrated real-time data rendering through
+              optimized state management and API collaboration.
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="in Ethics Infotech (2024)"
+            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+            icon={<FaPeopleGroup />}
+          >
+            <h3 className="vertical-timeline-element-title">Robotmaker</h3>
+            <h6 className="mt-2">
+              React.js, Redux-Saga, Blockly, SCSS, Tailwind CSS
+            </h6>
+            <p>
+              Built frontend UI to let users create trading bots using Blockly
+              without any coding knowledge. Focused on responsive design and
+              interactive UI elements.
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="in Benzatine Infotech (2024 – Present)"
+            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+            icon={<FaHandshake />}
+          >
+            <h3 className="vertical-timeline-element-title">Hypatrade</h3>
+            <h6 className="mt-2">React.js, Bootstrap, CSS, Context API</h6>
+            <p>
+              Designed and developed high-performance UI for Forex trading app
+              with dynamic data visualization and seamless user experience.
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="in Benzatine Infotech (2024 – Present)"
+            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+            icon={<SiFastapi />}
+          >
+            <h3 className="vertical-timeline-element-title">
+              Telegram Mini Apps
+            </h3>
+            <h6 className="mt-2">React.js, Tailwind CSS, TypeScript</h6>
+            <p>
+              Developed mobile-style mini apps for Telegram with admin portals
+              for data visualization and improved user interaction.
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="in Benzatine Infotech (2024 – Present)"
+            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+            icon={<SiFastapi />}
+          >
+            <h3 className="vertical-timeline-element-title">Company Website</h3>
+            <h6 className="mt-2">Next.js, Node.js </h6>
+            <p>
+              Built performant, scalable company website using Next.js with
+              server-side (SSR) and static generation (SSG) for faster load times and better
+              SEO.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

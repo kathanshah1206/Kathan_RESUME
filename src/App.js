@@ -260,9 +260,9 @@ function App() {
                             <span className="title-s">Phone: </span>
                             <span>7016239865</span>
                           </p>
-                          <p className="row align-items-center" style={{gap:'5px'}}>
-                            {/* <span className="title-s">link: </span> */}
-                          <a style={{color:'blue'}} href="https://leetcode.com/u/kathanshah/" target="_blank">https://leetcode.com/u/kathanshah/</a>
+                          <p className="row align-items-center" style={{gap:'5px',display:'flex'}}>
+                            <span className="title-s">LinkedIn: &nbsp; </span>
+                          <a style={{color:'blue'}} href="https://www.linkedin.com/in/kathan-shah-bb26041b2/" target="_blank">in/kathan-shah</a>
                           </p>
                           {/* https://leetcode.com/u/kathanshah/ */}
                         </div>
@@ -282,16 +282,15 @@ function App() {
                           ></div>
                         </div>
                         <span>
-                          CSS | HTML | Material UI | (other designing
-                          frameworks)
+                          Next JS
                         </span>{" "}
-                        <span className="pull-right">95%</span>
+                        <span className="pull-right">80%</span>
                         <div className="progress">
                           <div
                             className="progress-bar"
                             role="progressbar"
-                            style={{ width: "95%" }}
-                            aria-valuenow="95"
+                            style={{ width: "80%" }}
+                            aria-valuenow="80"
                             aria-valuemin="0"
                             aria-valuemax="100"
                           ></div>
